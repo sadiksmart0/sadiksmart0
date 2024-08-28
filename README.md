@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sadiksmart0 
 - 👀 I’m interested in Data Science/Engineering
-- 🌱 I’m currently a Masters student of Data science and Analytics  
+- 🌱 I’m Masters Graduate of Data science and Analytics  
 - 💞️ I’m looking to collaborate and learn more Data Engineering stuffs
 - 📫 How to reach me: ammuktar498@gmail.com
 
